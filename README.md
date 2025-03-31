@@ -31,7 +31,7 @@ Welcome to my GitHub profile — I’m a Data Scientist with 3+ years of experie
 ### 🏬 [Retail Pulse](https://github.com/UBC-MDS/DSCI-532_2025_15_RetailPulse)
 Created an interactive Dash based data driven Dashboard which enables retailers to gain real-time insights into their business performance.
 
-### [Vancouver Crime Statistics](https://github.com/vrudhgarg/vancouver_crime_statistics)
+### 📈 [Vancouver Crime Statistics](https://github.com/vrudhgarg/vancouver_crime_statistics)
 This shiny dashboard is designed for policy makers, researchers, and local authorities to analyze crime trends across Vancouver neighborhoods.
 
 ### 🔢 [Num Theory](https://github.com/UBC-MDS/num_theory)
