@@ -8,8 +8,8 @@ Welcome to my GitHub profile — I’m a Data Scientist with 3+ years of experie
 
 - 🎓 MDS Candidate @ University of British Columbia (2024–2025)
 - 💻 3+ years of professional experience across AI startups and consulting
-- ⚙️ Specialized in building machine learning models, cloud-based data pipelines, and scalable ETL systems
-- 🔐 Currently exploring the intersection of **machine learning and cybersecurity**
+- ⚙️ Specialized in building machine learning models, data analysis, dashboard development and scalable ETL systems
+- 🔐 Currently exploring the intersection of **machine learning and software development**
 - 🌐 Experienced with tools like **Python, PySpark, SQL, Docker, AWS, GCP, R**
 
 ---
@@ -27,11 +27,20 @@ Welcome to my GitHub profile — I’m a Data Scientist with 3+ years of experie
 
 ## 📦 Featured Projects
 
-### 🔢 [Num Theory](https://github.com/vrudhgarg/num-theory)
+
+### 🏬 [Retail Pulse](https://github.com/UBC-MDS/DSCI-532_2025_15_RetailPulse)
+Created an interactive Dash based data driven Dashboard which enables retailers to gain real-time insights into their business performance.
+
+### [Vancouver Crime Statistics](https://github.com/vrudhgarg/vancouver_crime_statistics)
+This shiny dashboard is designed for policy makers, researchers, and local authorities to analyze crime trends across Vancouver neighborhoods.
+
+### 🔢 [Num Theory](https://github.com/UBC-MDS/num_theory)
 A Python package implementing mathematical algorithms for solving Project Euler problems. Published to PyPI and documented using `Quarto` and `Read the Docs`.
 
-### 🚲 [Rental Bike Demand Forecasting](https://github.com/vrudhgarg/bike-rental-pipeline)
+### 🚲 [Rental Bike Demand Forecasting](https://github.com/UBC-MDS/DSCI522-2425-28-rental-bike-prediction)
 End-to-end ML pipeline using Docker, Scikit-Learn, and Git-based CI/CD. Forecasts bike rentals based on weather and time-series data.
+
+
 
 ### 📊 Marketing Attribution Model (Private Repo)
 At SprigHub, developed a statistical attribution model to optimize marketing ROI using large-scale behavioral data (10M+ records). Reduced costs by 70% via PySpark optimization and GCP-AWS pipeline integration.
@@ -39,14 +48,14 @@ At SprigHub, developed a statistical attribution model to optimize marketing ROI
 ---
 
 ## 🧠 Learning & Exploring
-
-- Advanced NLP & deep learning systems (e.g., transformers, adversarial robustness)
+- Pursuing Master of Data Science at UBC
+- Advanced deep learning systems (e.g., transformers, adversarial robustness)
 
 ---
 
 ## 📬 Let's Connect
 
-- 💼 Open to collaborating on data/AI/security projects
+- 💼 Open to collaborating on data/AI/ML projects
 - 📢 Actively seeking **2025 full-time roles in Data Science / ML Engineering**
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/data-scientist-dhruv-garg/) or drop me a message!
 
