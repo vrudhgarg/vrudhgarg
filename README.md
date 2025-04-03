@@ -10,15 +10,15 @@ Welcome to my GitHub profile — I’m a Data Scientist with 3+ years of experie
 - 💻 3+ years of professional experience across AI startups and consulting
 - ⚙️ Specialized in building machine learning models, data analysis, dashboard development and scalable ETL systems
 - 🔐 Currently exploring the intersection of **machine learning and software development**
-- 🌐 Experienced with tools like **Python, PySpark, SQL, Docker, AWS, GCP, R**
+- 🌐 Experienced with tools like **Python, PySpark, SQL, Docker, AWS, R**
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages**: Python, SQL, R, PySpark, Bash  
-**ML & AI**: Scikit-learn, PyTorch, Transformers, A/B Testing  
-**Data**: Pandas, NumPy, PostgreSQL, BigQuery, AWS S3, GCP Storage  
+**ML & AI**: Scikit-learn, PyTorch, A/B Testing  
+**Data**: Pandas, NumPy, PostgreSQL, BigQuery, AWS Athena 
 **Tools**: Docker, Git, Quarto, Make, Poetry  
 **Deployment & Pipelines**: CI/CD, Docker, Conda, Cloud ETL  
 **Other**: Jupyter, VS Code, GitHub Actions
