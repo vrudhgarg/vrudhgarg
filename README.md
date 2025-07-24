@@ -1,32 +1,34 @@
 # 👋 Hi there! I'm Dhruv Garg
 
-Welcome to my GitHub profile — I’m a Data Scientist with 3+ years of experience in building data-driven solutions, currently completing my Master’s in Data Science at UBC.
+Welcome to my GitHub profile — I’m a Data Scientist with 4 years of experience in building data-driven solutions, currently graduated from my Master’s in Data Science at UBC.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 MDS Candidate @ University of British Columbia (2024–2025)
-- 💻 3+ years of professional experience across AI startups and consulting
+- 💻 4 years of professional experience across AI startups
 - ⚙️ Specialized in building machine learning models, data analysis, dashboard development and scalable ETL systems
 - 🔐 Currently exploring the intersection of **machine learning and software development**
-- 🌐 Experienced with tools like **Python, PySpark, SQL, Docker, AWS, R**
+- 🌐 Experienced with tools like **Python, PySpark, SQL, Docker, AWS, R, Cloud Tools**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**: Python, SQL, R, PySpark, Bash  
+**Languages**: Python, SQL, R, PySpark, Bash
 **ML & AI**: Scikit-learn, PyTorch, A/B Testing  
 **Data**: Pandas, NumPy, PostgreSQL, BigQuery, AWS Athena 
-**Tools**: Docker, Git, Quarto, Make, Poetry  
-**Deployment & Pipelines**: CI/CD, Docker, Conda, Cloud ETL  
+**Tools**: Docker, Git, Quarto, Make, Poetry, Power BI
+**Deployment & Pipelines**: CI/CD, Docker, Conda, Cloud ETL, Render  
 **Other**: Jupyter, VS Code, GitHub Actions
 
 ---
 
 ## 📦 Featured Projects
 
+## CDL Dashboard
+  Private repo for now
 
 ### 🏬 [Retail Pulse](https://github.com/UBC-MDS/DSCI-532_2025_15_RetailPulse)
 Created an interactive Dash based data driven Dashboard which enables retailers to gain real-time insights into their business performance.
@@ -48,7 +50,7 @@ At SprigHub, developed a statistical attribution model to optimize marketing ROI
 ---
 
 ## 🧠 Learning & Exploring
-- Pursuing Master of Data Science at UBC
+- AI Agents
 - Advanced deep learning systems (e.g., transformers, adversarial robustness)
 
 ---
@@ -57,7 +59,7 @@ At SprigHub, developed a statistical attribution model to optimize marketing ROI
 
 - 💼 Open to collaborating on data/AI/ML projects
 - 📢 Actively seeking **2025 full-time roles in Data Science / ML Engineering**
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/data-scientist-dhruv-garg/) or drop me a message!
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/vrudhgarg/) or drop me a message!
 
 Thanks for stopping by! 😊
 
