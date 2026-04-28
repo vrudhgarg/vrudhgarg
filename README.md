@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dhruv Garg
 
-Welcome to my GitHub profile — I’m a Data Scientist with 4 years of experience in building data-driven solutions, currently graduated from my Master’s in Data Science at UBC.
+Welcome to my GitHub profile - I’m a Data Scientist with 4 years of experience in building data-driven solutions, currently graduated from my Master’s in Data Science at UBC.
 
 ---
 
